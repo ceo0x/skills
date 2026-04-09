@@ -21,3 +21,9 @@ A collection of agent skills for Claude Code.
   ```
   npx skills@latest add ceo0x/skills/perf-tune
   ```
+
+- **name-guard** — Audit naming in a codebase one bad name at a time. Proposes a better name and explains why it improves the code, waiting for approval before moving on.
+
+  ```
+  npx skills@latest add ceo0x/skills/name-guard
+  ```
