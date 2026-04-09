@@ -15,3 +15,9 @@ A collection of agent skills for Claude Code.
   ```
   npx skills@latest add ceo0x/skills/why-not
   ```
+
+- **perf-tune** — Analyze code for performance one bottleneck at a time. Explains why it matters and proposes the exact optimized version, waiting for approval before moving on.
+
+  ```
+  npx skills@latest add ceo0x/skills/perf-tune
+  ```
