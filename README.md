@@ -28,7 +28,7 @@ A collection of agent skills for Claude Code.
   npx skills@latest add ceo0x/skills/name-guard
   ```
 
-- **saas-onboarding-high-kpi** — Design and build high-conversion SaaS onboarding flows with strategy, copy, checklists, UI components, and analytics instrumentation. Use when improving onboarding, activation, trial-to-paid conversion, or time-to-first-value.
+- **saas-onboarding-high-kpi** — World-class SaaS onboarding grounded in behavioral science. Covers Aha Moment identification, 6 architecture patterns, segmented flows, multi-channel orchestration, copy frameworks, production-ready UI components, analytics instrumentation, and A/B testing playbooks. Use when building or improving onboarding, activation, trial-to-paid conversion, TTFV, or product-led growth.
 
   ```
   npx skills@latest add ceo0x/skills/saas-onboarding-high-kpi
